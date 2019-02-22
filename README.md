@@ -20,7 +20,7 @@ Code concepts, principles and examples for large long term projects
   
   **Введение**
   
-  Этот документ содержит правила написания кода (Code Conventions) в [компании BiZone](https://www.bi.zone/). 
+  Этот документ содержит правила написания кода (Code Conventions) 
   
   Здесь всегда будет находится актуальная версия нашего Code Conv, так как мы будем ссылаемся на него при проведении наших Code Review.
   
